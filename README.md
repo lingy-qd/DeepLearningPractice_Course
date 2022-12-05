@@ -1,0 +1,2 @@
+# DeepLearningPractice_Course
+2022年12月，USTCSE开设的深度学习实践课程。本仓库主要用来存放课程作业。
