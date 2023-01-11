@@ -1,2 +1,6 @@
 # 忽略实验要求文档
 实验/
+.ipynb_checkpoints/
+dataset/
+实验报告/
+在线考试/
